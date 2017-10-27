@@ -3,3 +3,4 @@ github1
 test2
 a
 github2
+clone+1
